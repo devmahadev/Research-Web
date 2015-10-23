@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Deepak Rampal
+tagline:             'My Research'
+
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Deepak Rampal
+  url:               
+  email:             deepak.pal@ttu.ee
+
+# Custom vars
+version:             1.0.0
