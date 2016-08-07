@@ -8,7 +8,7 @@ image:
   credit:  deepak
   creditlink: http://research-deepak.com//home/
 ---
-I came to Estonia as a master’s exchange student in 2013 under the `Erasmus` `Mundus Heritage Scholarship`. Currently, I am a `Researcher` at [Tallinn University of Technology](http://www.ttu.ee/doktorandile), Estonia and `Software Engineer` at [Elvior Ltd](http://www.elvior.com/).
+I came to Estonia as a master’s exchange student in 2013 under the `Erasmus Mundus` `Heritage Scholarship`. Currently, I am a `Researcher` at [Tallinn University of Technology](http://www.ttu.ee/doktorandile), Estonia and `Software Engineer` at [Elvior Ltd](http://www.elvior.com/).
 
 ## Work Experience
 
