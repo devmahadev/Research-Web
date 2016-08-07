@@ -19,5 +19,7 @@ image:
 
 > **E-mail**: 	name dot familyName @ ttu dot ee
 
-> [Linkedin](https://ee.linkedin.com/in/deepak-pal-645b8081), [Facebook](https://www.facebook.com/deepak.rampal.963)
+> [Linkedin](https://ee.linkedin.com/in/deepak-pal-645b8081)
+
+> [Facebook](https://www.facebook.com/deepak.rampal.963)
 
