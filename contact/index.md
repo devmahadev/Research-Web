@@ -10,11 +10,8 @@ image:
   creditlink: http://research-deepak.com/home/
 ---
 
-> -------------------![Myseld]({{ site.url }}/images/bio-photo.jpg) ----------------
- 
- ---
- 
 > **Name**: 	Deepak Pal 
+
 > **Nationality**: 	INDIAN	
 
 > **Office Address**: 	15 a Akadeemia tee, 4th Floor Department of Computer Science, ICT Building, Tallinn University of Technology, Estonia.
