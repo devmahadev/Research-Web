@@ -9,7 +9,7 @@ image:
   creditlink: http://research-deepak.com/
 ---
 
-> [Summer School Marktoberdorf 2015, Verification and Synthesis of Correct and Secure Systems] (https://asimod.informatik.tu-muenchen.de/). 
+> [Summer School Marktoberdorf 2015](https://asimod.informatik.tu-muenchen.de/), Verification and Synthesis of Correct and Secure Systems . 
 > Scholarship received by NATO Science for peace and security program.
 
 ---
