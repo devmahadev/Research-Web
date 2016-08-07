@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testing Distributed Systems
+title: Summer Schools
 excerpt: "Testing of Distributed Systems."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
