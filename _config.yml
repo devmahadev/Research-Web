@@ -2,14 +2,14 @@
 
 title: Research_Deepak
 locale: en_US
-description: Describe your website here.
+description: 
 logo: site-logo.png
 search: true
-url: http://research-deepak.com/
+url: http://research-deepak.com//home/
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /http://research-deepak.com//home/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -40,7 +40,7 @@ owner:
   twitter: #username
   facebook: #username
   github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange: #http://research-deepak.com//home/
   linkedin: #username
   instagram: #username
   flickr: #username
