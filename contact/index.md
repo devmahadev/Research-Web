@@ -10,6 +10,8 @@ image:
   creditlink: http://research-deepak.com/home/
 ---
 
+![Myseld]({{ site.url }}/images/bio-photo.jpg)
+
 > **Name**: 	Deepak Pal
 
 > **Nationality**: 	INDIAN	
