@@ -8,7 +8,7 @@ image:
   credit:  deepak
   creditlink: http://research-deepak.com//home/
 ---
-I came to Estonia as a master’s exchange student in 2013 under the `Erasmus Mundus Heritage Scholarship`. Currently, I am a `Researcher` at [Tallinn University of Technology](http://www.ttu.ee/doktorandile), Estonia and `Software Engineer` at [Elvior Ltd](http://www.elvior.com/).
+I came to Estonia as a master’s exchange student in 2013 under the `Erasmus` `Mundus Heritage Scholarship`. Currently, I am a `Researcher` at [Tallinn University of Technology](http://www.ttu.ee/doktorandile), Estonia and `Software Engineer` at [Elvior Ltd](http://www.elvior.com/).
 
 ## Work Experience
 
@@ -25,5 +25,5 @@ I worked as a Junior Research Scientist on this project and the main objectives 
 Profile: Software Engineer. My work at Eliko Tech. was one of the modules of master’s thesis work, which is on model based conformance testing, writing model, implemented automated test cases using  J-Unit frameworks, Selenium and also formal analysis using model checking. 
 
 --- 
-**Pro-tip:** I am specializing in model-based testing of real-time systems. My current interest is exploiting the Divine and Uppaal model-checker in testing. You must know my dear supervisors: [Prof. Jüri Vain](https://www.etis.ee/Portal/Persons/Display/0162fc67-4c10-4477-8a60-dae14775e332).
+**Specialization:** I am specializing in model-based testing of real-time systems. My current interest is exploiting the Divine and Uppaal model-checker in testing. You must know my dear supervisors: [Prof. Jüri Vain](https://www.etis.ee/Portal/Persons/Display/0162fc67-4c10-4477-8a60-dae14775e332).
 {: .notice}
