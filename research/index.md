@@ -22,4 +22,3 @@ It has been found that we can produce test sequences that avoid controllability 
 **References:** 
 {: .notice}
 
----
