@@ -1,11 +1,16 @@
 # Site wide configuration
 
-title: Research_Deepak
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
-url: 
+layout: page
+title: Deepak Pal
+excerpt: "Testing of Distributed Systems."
+modified: 2014-08-08T19:44:38.564948-04:00
+search_omit: true
+image:
+  feature: so-simple-sample-image-4.jpg
+  credit:  deepak
+  creditlink: http://research-deepak.com/home/
+---
+
 
 # Jekyll configuration
 
