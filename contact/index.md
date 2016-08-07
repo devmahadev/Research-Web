@@ -25,5 +25,5 @@ image:
 > [Facebook](https://www.facebook.com/deepak.rampal.963)
 
 {% highlight bash %}
-$ ![Myseld]({{ site.url }}/images/bio-photo.jpg)
+![Myseld]({{ site.url }}/images/bio-photo.jpg)
 {% endhighlight %}
