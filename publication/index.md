@@ -18,8 +18,9 @@ image:
 [2.] Pal, D; Vain, J . (2016). Model-based testing of real-time distributed systems. 
 IOS Press proceedings Frontiers in Artificial Intelligence and Applications. (Forthcoming) .
 
-[3.](http://link.springer.com/chapter/10.1007/978-3-319-40180-5_19) Vain, J .; Halling, E .; Kanter, G .; Anier, A .; Pal, D. (2016). Model-based testing of real-time distributed systems. 
+[[3.]](http://link.springer.com/chapter/10.1007/978-3-319-40180-5_19) Vain, J .; Halling, E .; Kanter, G .; Anier, A .; Pal, D. (2016). Model-based testing of real-time distributed systems. 
 Springer International Publishing, 272--286, 978-3-319-40180-5. 
+
 ---
 `2014`
 --- 
