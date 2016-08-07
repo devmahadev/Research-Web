@@ -2,10 +2,10 @@
 
 title: Research_Deepak
 locale: en_US
-description: 
+description: Describe your website here.
 logo: site-logo.png
 search: true
-url: http://research-deepak.com//home/
+url: http://research-deepak.com/
 
 # Jekyll configuration
 
@@ -40,7 +40,7 @@ owner:
   twitter: #username
   facebook: #username
   github: #username
-  stackexchange: #http://research-deepak.com//home/
+  stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
   flickr: #username
