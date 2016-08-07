@@ -9,7 +9,7 @@ url: http://research-deepak.com//home/
 
 # Jekyll configuration
 
-permalink:   /http://research-deepak.com//home/
+permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
