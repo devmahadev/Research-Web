@@ -10,10 +10,15 @@ image:
 ---
 
 > Name	Deepak Pal
+
 > Nationality	INDIAN	
+
 > Office Address	15 a Akadeemia tee, 4th Floor Department of Computer Science, ICT Building, Tallinn University of Technology, Estonia.
+
 > Phone	+372 56828921
+
 > E-mail	name dot familyName @ ttu dot ee
+
 > Linkedin:	https://ee.linkedin.com/in/deepak-pal-645b8081
 
 ---
