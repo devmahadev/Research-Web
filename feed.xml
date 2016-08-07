@@ -4,15 +4,15 @@ sitemap: false
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">{{ site.title }}</title>
-<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<generator uri="github.com/devmahadev/">DevMahadev</generator>
 <link rel="self" type="application/atom+xml" href="{{ site.url }}/feed.xml" />
 <link rel="alternate" type="text/html" href="{{ site.url }}" />
 <updated>{{ site.time | date_to_xmlschema }}</updated>
 <id>{{ site.url }}/</id>
 <author>
-  <name>{{ site.owner.name }}</name>
-  <uri>{{ site.url }}/</uri>
-  {% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
+  <name>{{ Deepak Pal }}</name>
+  <uri>{{ http://research-deepak.com/ }}/</uri>
+  <email>{{ deepak.pal@ttu.ee }}</email>
 </author>
 {% for post in site.posts limit:20 %}
 {% if post.author %}
@@ -29,9 +29,9 @@ sitemap: false
   {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
   <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
   <author>
-    <name>{{ author.name }}</name>
-    <uri>{{ site.url }}</uri>
-    {% if author.email %}<email>{{ author.email }}</email>{% endif %}
+  <name>{{ Deepak Pal }}</name>
+  <uri>{{ http://research-deepak.com/ }}/</uri>
+  <email>{{ deepak.pal@ttu.ee }}</email>
   </author>
   <content type="html">
     {{ post.content | xml_escape }}
