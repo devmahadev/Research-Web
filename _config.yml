@@ -2,16 +2,12 @@
 
 layout: page
 title: Deepak Pal
-excerpt: "Testing of Distributed Systems."
+locale: en_US
+description: Welcome to My World !!
 modified: 2014-08-08T19:44:38.564948-04:00
 search_omit: true
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit:  deepak
-  creditlink: http://research-deepak.com/home/
+logo: site-logo.png
 ---
-
-
 
 # Jekyll configuration
 
@@ -39,10 +35,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Deepak Pal
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  email: deepak.pal@email.com
+  disqus-shortname: Mahadev
   twitter: #username
   facebook: #username
   github: #username
