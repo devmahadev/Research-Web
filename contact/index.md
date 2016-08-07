@@ -10,7 +10,7 @@ image:
   creditlink: http://research-deepak.com/home/
 ---
 
-> **Name**: 	Deepak Pal
+> **Name**: 	Deepak Pal ![Myseld]({{ site.url }}/images/bio-photo.jpg)
 
 > **Nationality**: 	INDIAN	
 
@@ -24,6 +24,3 @@ image:
 
 > [Facebook](https://www.facebook.com/deepak.rampal.963)
 
-{% highlight bash %}
-![Myseld]({{ site.url }}/images/bio-photo.jpg)
-{% endhighlight %}
