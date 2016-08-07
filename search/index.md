@@ -1,14 +1,16 @@
 ---
 layout: page
-title: "Search"
-date: 
-modified:
-excerpt:
-image:
-  feature:
+title: Search
+excerpt: "search here"
+modified: 2014-08-08T19:44:38.564948-04:00
 search_omit: true
-sitemap: false
+image:
+  feature: so-simple-sample-image-3.jpg
+  credit:  deepak
+  creditlink: http://research-deepak.com/home
 ---
+
+
   
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
