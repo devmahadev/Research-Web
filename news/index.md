@@ -13,14 +13,20 @@ image:
 **2016** 
 {: .notice}
 
+---
+
 ### Big Software on the Run: Where Software Meets Data (BSR winter school) 23–28 October 2016 | Ede, The Netherlands 
 * Visualisation, Software engineering, Runtime Verification *
+
+---
 
 ### 1st ARVI COST Summer School on Runtime Verification 23–25 September 2016 | Madrid, Spain 
 * Runtime Verification *
 
+---
+
 ### Summer School on Verification Technology, Systems & Applications (VTSA 2016) 29 August–2 September 2016 | Liège, Belgium 
 * Biological Systems, Verification, Security, Programming Languages, Satisfiability, Model checking, Formal proof *
---- 
+
 
 
