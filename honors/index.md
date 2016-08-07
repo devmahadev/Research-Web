@@ -9,40 +9,32 @@ image:
   creditlink: http://research-deepak.com/
 ---
 
-> Summer School Marktoberdorf 2015, Verification and Synthesis of Correct and Secure Systems
-> Advanced Study Institute of the NATO Science for Peace and Security Programme
-> June 2015
-> International Summer School Marktoberdorf 2015 Sponsors by NATO Science for peace and security program. https://asimod.informatik.tu-muenchen.de/
+> [Summer School Marktoberdorf 2015, Verification and Synthesis of Correct and Secure Systems] (https://asimod.informatik.tu-muenchen.de/). 
+> Scholarship received by NATO Science for peace and security program.
 
 ---
 
->European Innovation Academy 2015
-> European Union
-> April 2015
-> Accepted to receive the scholarship for attending the EIA 2015 summer program.http://www.inacademy.eu/
+> [European Innovation Academy 2015](http://www.inacademy.eu/)
+> Got scholarship for attending the EIA 2015 summer program.
 
 ---
 
-> IT Academy Skype Scholarship
-> Skype Scholarships
-> September 2014
+> IT Academy Scholarship, 2014
+> Scholarship for supporting PhD educational activities.
+
 
 ---
 
-> ERASMUS MUNDUS HERITAGE SCHOLARSHIP
-> European Union
-> July 2013
-> Got selected for scholarship under the HERITAGE Eramus Mundus Action 2 project, on a masters mobility at Tallinna Tehnikaulikool,
+> ERASMUS MUNDUS HERITAGE SCHOLARSHIP, July 2013
+> Got selected for scholarship under the HERITAGE Eramus Mundus Action 2 project, on a masters mobility at [Tallinn University of Technology](http://www.ttu.ee/doktorandile).
 
 ---
 
-> Participating In Airtel Half Marathon ,09.
-> September 2009
+> Participating In Airtel Half Marathon ,2009
 
 ---
 
-> Organised and Participating In National And College Level Fashion and Modelling Events.
-> February 2013
+> Organised and Participating In National And College Level Fashion and Modelling Events, 2013
 
 ---
 
