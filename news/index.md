@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Summer Schools
+title: Upcoming Summer Schools
 excerpt: "Testing of Distributed Systems."
 modified: 2014-08-08T19:44:38.564948-04:00
 search_omit: true
 image:
-  feature: so-simple-sample-image-5.jpg
+  feature: so-simple-sample-image-1.jpg
   credit:  deepak
   creditlink: http://research-deepak.com/home/
 ---
