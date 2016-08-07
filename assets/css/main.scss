@@ -1,57 +1,39 @@
----
-sitemap: false
----
+// Tested in latest Chrome and Safari only
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+  height: 100vh;
+  
+  background-image: linear-gradient(90deg, #ddd 50%, #000 50%);
+}
 
-/*
- *
- *  So Simple
- *
- *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
- *
-*/
+h1,
+h2 {
+  color: #ddd;
+  font-weight: 400;
+  margin: 0;
+  mix-blend-mode: difference;
+  text-align: center;
+  width: 100%;
+}
 
-@import "variables";
+h1 {
+  font-family: georgia, serif;
+  font-size: 10em;
+  transform: translateX(-19.5px)
+}
 
-/*
-   Vendor
-   ========================================================================== */
-
-@import "vendor/bourbon/bourbon"; /* Bourbon mixins (bourbon.io) */
-@import "grid-settings"; /* Bourbon Neat settings */
-@import "vendor/neat/neat"; /* Bourbon Neat grid mixins (neat.bourbon.io) */
-@import "vendor/font-awesome/font-awesome"; /* Font Awesome icons */
-@import "vendor/magnific-popup/magnific-popup"; /* Magnific Popup lightbox */
-
-/*
-   Global
-   ========================================================================== */
-
-@import "mixins";
-@import "reset";
-@import "base";
-
-/*
-   Components
-   ========================================================================== */
-
-@import "helpers";
-@import "buttons";
-@import "wells";
-@import "syntax";
-@import "forms";
-@import "notices"; /* notices and alerts */
-@import "animations";
-@import "masthead";
-@import "navigation";
-@import "search";
-@import "footer";
+h2 {
+  font-family: verdana, sans-serif;
+  font-size: 1em;
+  margin-top: 2em;
+  transform: translateX(-20px)
+}
 
 
 
-/*
-   Page specific
-   ========================================================================== */
 
-@import "page"; /* layout and styles that apply to posts and pages */
-@import "archives"; /* archive pages (post/tag lists, etc) */
+
