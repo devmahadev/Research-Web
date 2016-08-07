@@ -1,0 +1,76 @@
+**So Simple Theme**. ===== Bold 
+
+* Table of Contents
+{:toc}
+
+
+## Installation ======== new section 
+
+*Don't include a trailing `/`*  ==== Italic 
+
+[Jekyll](http://jekyllrb.com/)  ===== hyperlink
+
+
+`gem update jekyll` ===== make rectangle box
+
+**Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
+{: .notice}
+
+**Pro-Tip**: You need to [apply for Twitter Cards](https://dev.twitter.com/docs/cards) before they will begin showing up when links to your site are shared.
+{:.notice}
+
+== notice board 
+
+--- ==== line 
+
+> In some cases,  ===== bold line in front
+
+// start here 
+{% highlight text %}
+bundle exec jekyll build
+
+bundle exec jekyll serve
+{% endhighlight %}
+// end here////////
+
+{% highlight bash %}
+$ gem install octopress --pre
+{% endhighlight %}
+
+
+### New Post
+
+Default command for creating a new post.
+
+{% highlight bash %}
+$ octopress new post "Post Title"
+{% endhighlight %}
+
+
+{% highlight bash %}
+$ octopress new post "New Post Title" --dir posts
+{% endhighlight %}
+
+
+ the [Jekyll Picture Tag](https://github.com/robwierzbowski/jekyll-picture-tag) plugin[^plugins]. ===== superscript
+ 
+ //------ frame with scroll
+ {% highlight html %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
+{% endhighlight %}
+
+
+
+## Social Share Links
+
+To add Facebook, Twitter, and Google+ share links to a post add the following YAML front matter.
+
+{% highlight yaml %}
+share: true
+{% endhighlight %}
+
+Share links appear below author details in the sidebar.
+
+
+// images
+![Twitter Card summary large image screenshot]({{ site.url }}/images/twitter-card-summary-large-image.jpg)
