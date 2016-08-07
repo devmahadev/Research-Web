@@ -6,7 +6,7 @@ modified: 2014-08-08T20:04:41.231140-04:00
 image:
   feature: so-simple-sample-image-4.jpg
   credit: deepak
-  creditlink: http://research-deepak.com/
+  creditlink: http://research-deepak.com/home/
 ---
 
 > [Summer School Marktoberdorf 2015](https://asimod.informatik.tu-muenchen.de/), Verification and Synthesis of Correct and Secure Systems . 

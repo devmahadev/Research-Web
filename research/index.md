@@ -6,7 +6,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-5.jpg
   credit:  deepak
-  creditlink: http://research-deepak.com/
+  creditlink: http://research-deepak.com/home/
 ---
 When testing a system that has multiple physically distributed interfaces (ports) we place a tester at each port of the system under test N. When applying a test sequence to N the use of multiple testers introduces the possibility of coordination problems amongst remote testers. These potential additional problems are known as controllability and observability problems. They occur if a tester cannot determine either when to apply a particular input to N, or whether a particular output from N is generated in response to a specific input, respectively. Consider a distributed architecture where there are remote testers at ports p(1), ..., p(m).
 
