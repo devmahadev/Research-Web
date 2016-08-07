@@ -20,7 +20,7 @@ My research is in `time-efficient algorithms` and `verification` for distributin
 {: .notice}
 
 ### Software Engineer
-Parallel with my PhD I also work as a Software Engineer at Elvior. Major work comprises development of Model Based Testing tools such as Test Cast MBT, Implementation of Algorithm (based on our publication) for generating optimal test cases with model checker (specially DIVINE) and of course writing quality code.  
+Parallel with PhD I also work as a Software Engineer at Elvior. Major work comprises development of Model Based Testing tools such as Test Cast MBT, Implementation of Algorithm (based on our publication) for generating optimal test cases with model checker (specially DIVINE) and of course writing quality code.  
 
 --- 
 **Specialization:** I am specializing in model-based testing of real-time systems. My current interest is exploiting the Divine and Uppaal model-checker in testing. You must know my dear supervisors: [Prof. Jüri Vain](https://www.etis.ee/Portal/Persons/Display/0162fc67-4c10-4477-8a60-dae14775e332).
