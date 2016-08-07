@@ -13,7 +13,7 @@ image:
 **2016:** 
 {: .notice}
 
-[1.] Pal, D. (2016); Vain, J . *Generating Optimal Test Cases for Real-Time Systems using DIVINE
+[1.] Pal, D.; Vain, J . (2016). *Generating Optimal Test Cases for Real-Time Systems using DIVINE
 	 Model Checker*. IEEE (Forthcoming).
 
 [2.] Pal, D; Vain, J . (2016). *Model-based testing of real-time distributed systems*. IOS Press
