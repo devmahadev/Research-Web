@@ -5,7 +5,7 @@ excerpt: "Testing of Distributed Systems."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
-  credit:  @deepak
+  credit:  deepak
   creditlink: http://research-deepak.com//home/
 ---
 I came to Estonia as a master’s exchange student in 2013 under the `Erasmus Mundus Heritage Scholarship`. 
