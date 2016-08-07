@@ -8,7 +8,7 @@ image:
   credit:  deepak
   creditlink: http://research-deepak.com//home/
 ---
-## Summer Schools in Computer Science, Logic, Verification
+## Computer Science, Logic, Verification
 
 **2016** 
 {: .notice}
