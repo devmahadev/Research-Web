@@ -16,9 +16,9 @@ image:
 [1.] Pal, D.; Vain, J . (2016). *Generating Optimal Test Cases for Real-Time Systems using DIVINE
 	 Model Checker*. IEEE (Forthcoming).
 
-[2.] Pal, D; Vain, J . (2016). *Automatic Distribution of Fully Optimize Testers for
-Real-Time Distributed Systems*. IOS Press
-     proceedings Frontiers in Artificial Intelligence and Applications. (Forthcoming) .
+[2.] Vain, J .; Halling, E .; Kanter, G .; Anier, A .; Pal, D. (2016). *Automatic Distribution of Local Testers
+for Testing Distributed Systems*. IOS Press
+     proceedings Frontiers in Artificial Intelligence and Applications.
 
 [[3.]](http://link.springer.com/chapter/10.1007/978-3-319-40180-5_19) Vain, J .; Halling, E .; Kanter, G .; Anier, A .; Pal, D. (2016). *Model-based testing of real-time 
 	                                                                  distributed systems*. Springer International Publishing, 272--286, 978-3-319-40180-5. 
