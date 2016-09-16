@@ -11,6 +11,8 @@ image:
 ---
 Currently, I am a `Research Assistant` at Department of Computer Engineering, [Tallinn University of Technology](http://www.ttu.ee/doktorandile).
 
+![MOD15]({{ site.url }}/images/app.jpg)
+
 `Functional validation` of `hardware designs` is an important but extremely difficult problem. 
 Ensuring the functional correctness of hardware early in the design cycle is crucial for both economic and methodological
 reasons. My current interest is improving the scalability of existing `formal verification` techniques for industrial designs. 
