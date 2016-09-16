@@ -12,8 +12,8 @@ image:
 I came to Estonia as a master’s exchange student in 2013 under the `Erasmus Mundus` `Heritage Scholarship`. Currently, I am a `Researcher` at Department of Computer Science, [Tallinn University of Technology](http://www.ttu.ee/doktorandile) and `Software Engineer` at [Elvior Ltd](http://www.elvior.com/).
 
 ![MOD15]({{ site.url }}/images/mod15.jpg)
-Picture taken on the day of excursion at Alps - [Mount Felhorn](https://en.wikipedia.org/wiki/Fellhorn) during Summer school Marktoberdorf 2015 on [Verification and Synthesis of Correct and Secure Systems](https://asimod.in.tum.de/2015/index.shtml). From left to right It's me, Orna Grumberg (Professor at Israel Institute of Technology) 
-,Sumit Gulwani (Principal Researcher at Microsoft, Redmond).
+*Picture taken on the day of excursion at Alps - [Mount Felhorn](https://en.wikipedia.org/wiki/Fellhorn) during Summer school Marktoberdorf 2015 on [Verification and Synthesis of Correct and Secure Systems](https://asimod.in.tum.de/2015/index.shtml). From left to right It's me, `Orna Grumberg` (Professor at Israel Institute of Technology) 
+, `Sumit Gulwani` (Principal Researcher at Microsoft, Redmond).*
 
 
 ### Research Assistant
