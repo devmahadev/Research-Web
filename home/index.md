@@ -11,7 +11,11 @@ image:
 ---
 I came to Estonia as a master’s exchange student in 2013 under the `Erasmus Mundus` `Heritage Scholarship`. Currently, I am a `Researcher` at Department of Computer Science, [Tallinn University of Technology](http://www.ttu.ee/doktorandile) and `Software Engineer` at [Elvior Ltd](http://www.elvior.com/).
 
- 
+![MOD15]({{ site.url }}/images/mod15.jpg)
+Picture taken on the day of excursion at Alps - [Mount Felhorn](https://en.wikipedia.org/wiki/Fellhorn) during Summer school Marktoberdorf 2015 on [Verification and Synthesis of Correct and Secure Systems](https://asimod.in.tum.de/2015/index.shtml). From left to right It's me, Orna Grumberg (Professor at Israel Institute of Technology) 
+,Sumit Gulwani (Principal Researcher at Microsoft, Redmond).
+
+
 ### Research Assistant
 My research is in `time-efficient algorithms` and `verification` for distributing systems, and, more broadly, in all means and methods that help designing correct and reliable systems. I work on algorithms and theory for generating tests for distributing systems by exploiting model based techniques. The main objectives of my research is to develop a model based distributed testing methodology, a framework with a pool of related formal methods that support distributed testing with both centralized and decentralized control up to fully distributed coordination of test components. The key task of the research and novelty lies in the elaboration of - Fully automated test generation technique for distributed on-line testing and its implementation in the form of time-efficient algorithms.
 
