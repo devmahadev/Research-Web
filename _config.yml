@@ -6,7 +6,10 @@ locale: en_US
 description: Welcome to the computer science world!!  
 modified: 2014-08-08T19:44:38.564948-04:00
 search_omit: true
-logo: site-logo.png
+
+image:
+  feature: site-logo.png
+  creditlink: http://research-deepak.com/home
 ---
 
 # Jekyll configuration
@@ -37,7 +40,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Deepak Pal
   avatar: bio-photo.jpg
-  email: deepak.pal@email.com
+  email: deepak.pal@ttu.ee
   disqus-shortname: Mahadev
   twitter: #username
   facebook: #https://www.facebook.com/deepak.rampal.963
