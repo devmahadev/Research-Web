@@ -6,10 +6,7 @@ locale: en_US
 description: Welcome to the computer science world!!  
 modified: 2014-08-08T19:44:38.564948-04:00
 search_omit: true
-
-image:
-  feature: site-logo.png
-  creditlink: http://research-deepak.com/home
+logo: site-logo.png
 ---
 
 # Jekyll configuration
